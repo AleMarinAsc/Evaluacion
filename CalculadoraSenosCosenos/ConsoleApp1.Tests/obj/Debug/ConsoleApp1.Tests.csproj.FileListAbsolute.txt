@@ -1,0 +1,40 @@
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.Tests.dll
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.Tests.pdb
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.csproj.AssemblyReference.cache
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.csproj.CopyComplete
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.dll
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.pdb
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.exe
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.Tests.dll
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.Tests.pdb
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.exe
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.csproj.AssemblyReference.cache
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.csproj.CopyComplete
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.dll
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.pdb

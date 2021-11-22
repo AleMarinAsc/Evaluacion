@@ -1,0 +1,21 @@
+C:\Users\4M4D3US\Desktop\FacilMenuConsola\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\4M4D3US\Desktop\FacilMenuConsola\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\4M4D3US\Desktop\FacilMenuConsola\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\4M4D3US\Desktop\FacilMenuConsola\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\4M4D3US\Desktop\FacilMenuConsola\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\4M4D3US\Desktop\FacilMenuConsola\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\4M4D3US\Desktop\FacilMenuConsola\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ale\Documents\FacilMenuConsola\FacilMenuConsola\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ale\Documents\Ley de cosenos y senos\FacilMenuConsola\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
