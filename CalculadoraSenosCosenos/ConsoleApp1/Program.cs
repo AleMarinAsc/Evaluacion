@@ -48,19 +48,19 @@ namespace ConsoleApp1
                             Console.Write("{0}\n", opcion);
                             Console.WriteLine("-------------------------------");
 
-                            Console.Write("Ingrese el primer lado  (x): ");
+                            Console.Write("Ingrese el primer lado");
                             double numeroX = double.Parse(Console.ReadLine());
 
-                            Console.Write("Ingrese el segundo lado (y): ");
+                            Console.Write("Ingrese el segundo lado");
                             double numeroY = double.Parse(Console.ReadLine());
 
-                            Console.Write("Ingrese el ángulo opuesto al primer lado (y): ");
+                            Console.Write("Ingrese el lado opuesto al ángulo a buscar");
                             double numeroZ = double.Parse(Console.ReadLine());
 
                             Console.WriteLine("-------------------------------");
                             ClassOp op = new ClassOp(numeroX, numeroY, numeroZ);
 
-                            Console.WriteLine("El ángulo opuesto : " + op.OpcionCosenoLAL().ToString());
+                            Console.WriteLine("El ángulo es: " + op.OpcionCosenoLAL().ToString());
 
                         }
                         break;
@@ -90,16 +90,16 @@ namespace ConsoleApp1
                             Console.Write("{0}\n", opcion);
                             Console.WriteLine("-------------------------------");
 
-                            Console.Write("Ingrese primer número  (x): ");
+                            Console.Write("Ingrese primer ángulo:");
                             double numeroX = double.Parse(Console.ReadLine());
 
-                            Console.Write("Ingrese segundo número (y): ");
+                            Console.Write("Ingrese segundo ángulo: ");
                             double numeroY = double.Parse(Console.ReadLine());
 
                             Console.WriteLine("-------------------------------");
                             ClassOp op = new ClassOp(numeroX, numeroY, 0);
 
-                            Console.WriteLine("El resultado de la multiplicación es: " + op.OpcionSenoAAL().ToString());
+                            Console.WriteLine("El valor del ángulo es: " + op.OpcionSenoAAL().ToString());
 
                         }
                         break;
